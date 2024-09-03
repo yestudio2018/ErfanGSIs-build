@@ -17,7 +17,6 @@ env:
   ROM_NAME: Generic
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
-
 jobs:
   build:
     runs-on: ubuntu-latest
